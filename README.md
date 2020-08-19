@@ -6,8 +6,6 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/lihaochen910?label=Followers">
 </p>
 
-<br><br>
-
 <p align="center">
   <a href="https://twitter.com/kanbaru_chen">
     <img width="40px" height="40px" src="https://github.com/lihaochen910/lihaochen910/blob/master/img/Twitter_Social_Icon_Circle_Color.svg">
