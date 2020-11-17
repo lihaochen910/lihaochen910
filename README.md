@@ -1,5 +1,5 @@
 <a href="https://lihaochen910.github.io/Resume" target="_blank">
-  <img src="https://github.com/lihaochen910/lihaochen910/blob/master/80828516_p0@0.5x.jpg">
+  <img src="https://github.com/lihaochen910/lihaochen910/blob/master/201307_SATO_scaled.jpg">
 </a>
 
 <p align="center">
@@ -17,8 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lihaochen910&show_icons=true&theme=monokai">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihaochen910&show_icons=true&theme=dracula&layout=compact"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lihaochen910&show_icons=true&theme=monokai" align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihaochen910&show_icons=true&theme=dracula&layout=compact" align="right"> -->
 </p>
 
 
