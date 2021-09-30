@@ -1,5 +1,5 @@
 <a href="https://lihaochen910.github.io/Resume" target="_blank">
-  <img src="https://github.com/lihaochen910/lihaochen910/blob/master/201307_SATO_scaled.jpg">
+  <img src="https://github.com/lihaochen910/lihaochen910/blob/master/djmax_respect_01_scaled.jpg">
 </a>
 
 <p align="center">
